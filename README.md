@@ -4,15 +4,13 @@
 ✨[My portfolio](https://alena.movies.students.nomoredomains.monster/)✨<br>
 <br>
 📫 How to reach me:<br> 
-[Email](helen.zavadskaya@yandex.ru)<br>
-[Linkedin](https://www.linkedin.com/in/alena-z-5aa9b1195/)<br>
+- [Email](helen.zavadskaya@yandex.ru)<br>
+- [Linkedin](https://www.linkedin.com/in/alena-z-5aa9b1195/)<br>
 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenaZavadskaya&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaZavadskaya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenaZavadskaya&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaZavadskaya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
