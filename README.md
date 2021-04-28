@@ -1,7 +1,7 @@
 ### Hello 👋
 🌱 I am a junior web-developer<br>
 📚 I’m currently learning JavaScript and React<br>
-✨[My portfolio](http://www.alena.movies.students.nomoredomains.monster/)✨<br>
+✨[My portfolio](https://alenazavadskaya.site/)✨<br>
 <br>
 📫 How to reach me: 
 - [Email](mailto:helen.zavadskaya@yandex.ru)<br>
