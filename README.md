@@ -1,6 +1,6 @@
 ### Hello 👋
-🌱 I am a junior web-developer<br>
-📚 I’m currently learning JavaScript and React<br>
+🌱 I am a web-developer<br>
+📚 I’m currently learning TypeScript and Vue<br>
 ✨[My portfolio](https://alenazavadskaya.site/)✨<br>
 <br>
 📫 How to reach me: 
