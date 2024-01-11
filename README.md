@@ -1,7 +1,7 @@
 ### Hello 👋
 🌱 I am a web-developer<br>
 📚 I’m currently learning TypeScript and Vue<br>
-✨[My portfolio](https://alenazavadskaya.site/)✨<br>
+<!--✨[My portfolio](https://alenazavadskaya.site/)✨<br> -->
 <br>
 📫 How to reach me: 
 - [Email](mailto:helen.zavadskaya@yandex.ru)<br>
